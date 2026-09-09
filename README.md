@@ -21,8 +21,8 @@
 | Project | What it is |
 |---|---|
 | [**LaborLink**](https://github.com/chaubeyishan20-cpu/laborlink-main) | Daily-wage worker platform: QR attendance, wages, SOS, i18n (28 languages) |
-| [**Hackhthon (CampusFlow)**](https://github.com/chaubeyishan20-cpu/Hackhthon) | Campus events + crowd heat map + panic button + QR check-in |
-| [**Hackhthon-backend**](https://github.com/chaubeyishan20-cpu/Hackhthon-backend) | CampusFlow API: auth, events, registrations, payments |
+| [**CampusFlow**](https://github.com/chaubeyishan20-cpu/campusflow) | Campus events + crowd heat map + panic button + QR check-in + payments |
+| [**CampusFlow-backend**](https://github.com/chaubeyishan20-cpu/campusflow-backend) | CampusFlow API: auth, events, registrations, payments |
 | [**ishan-backend**](https://github.com/chaubeyishan20-cpu/ishan-backend) | Crop/farmer API with JWT auth |
 
 ## Stats
