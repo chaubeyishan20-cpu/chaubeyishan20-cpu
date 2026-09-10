@@ -1,8 +1,8 @@
-# Hi, I'm Ishan Chaubey 👋
+# Hi, I'm Ishan Chaubey 
 
 **Full-stack developer** building for India's informal workforce and everyday problems.
 
-🎓 Computer Science student · 🏆 Hackathon builder · ☕ React + Node.js + MongoDB + Machine Learning
+ Computer Science student ·  Hackathon builder · React + Node.js + MongoDB + Machine Learning
 
 ---
 
@@ -33,5 +33,5 @@
 
 ## Let's Connect
 
-- 📫 Reach me on [GitHub](https://github.com/chaubeyishan20-cpu)
-- 💡 Open to collabs on projects for social impact
+-  Reach me on [GitHub](https://github.com/chaubeyishan20-cpu)
+-  Open to collabs on projects for social impact
